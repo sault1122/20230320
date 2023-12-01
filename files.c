@@ -6,7 +6,7 @@ int main()
 	cout<<"ccccc"<<endl;
 	cout<<"ccccc"<<endl;
         cout<<"ccccc"<<endl;
-fffffffffffffffff
+
 
 	ccc
 		ddddddddd
