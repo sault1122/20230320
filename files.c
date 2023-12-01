@@ -9,6 +9,8 @@ int main()
 fffffffffffffffff
 
 	ccc
+		ddddddddd
+
 
  cout<<"bbb"<<endl;
 	return 0;
