@@ -8,6 +8,8 @@ int main()
         cout<<"ccccc"<<endl;
 fffffffffffffffff
 
+	ccc
+
  cout<<"bbb"<<endl;
 	return 0;
 }
